@@ -25,3 +25,5 @@ EsyShock_Lite_Demo_MK1-backups
 # Exported BOM files
 *.xml
 *.csv
+
+gerber
